@@ -4,11 +4,11 @@ T'rreriuh is a bad quality clone of the popular 2D game, Terraria. I'm making th
 
 Credits:
 
-Director: aivlisfish
+Physics and mechanics code: aivlisfish
 
-Programmers: aivlisfish, celerymagic_21829
+World generation: celerymagic_21829
 
-Artists: All art is original Terraria artwork, we do not claim any graphics in the game currently as of Alpha 0.1-0
+Art: All art is original Terraria artwork, we do not claim any graphics in the game currently as of Alpha 0.1-0
 
 Versions and updates:
 
