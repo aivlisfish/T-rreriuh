@@ -8,17 +8,27 @@ Physics and mechanics code: aivlisfish
 
 World generation: celerymagic_21829
 
-Art: All art is original Terraria artwork, we do not claim any graphics in the game currently as of Alpha 0.1-0
+Art: All art is original Terraria artwork, we do not claim any graphics in the game currently as of Alpha 0.1-1
 
 Bugs and glitches:
+
+Alpha 0.1-1
+-Jumping into the top right corner of a room makes you teleport right until there is air
 
 Alpha 0.1-0
 -Jumping while walking into a wall makes you jump very high
 -Items in any way inside of a block teleporting to the right
+-Step up being triggered when falling into a wall
 -Teleporting up sometimes when jumping and walking in an underground room
 -Teleporting right when jumping in an underground room
 
 Versions and updates:
+
+Alpha 0.1-1
+-Added health
+-Added fall damage
+-Added pause menu
+-Fixed a small issue with player hitbox and item hitbox
 
 Alpha 0.1-0
 -first release
