@@ -32,16 +32,17 @@ Alpha 0.1-0
 Versions and updates:
 
 Alpha 0.1-2
--Added inventory
--Added inventory organization
--Added the ability to drop items
--Added stone
--Grass spreads
--Grass has more texture variants
--Grass has dynamic texturing
--Pause menu has darker background
--Items move towards the player within about 3 blocks
--Fixed a bug where jumping while walking into a wall makes you jump high
+-Added inventory 
+-Added inventory organization 
+-Added the ability to drop items 
+-Added stone 
+-Grass spreads 
+-Grass has more texture variants 
+-Grass has dynamic texturing 
+-Pause menu has darker background 
+-Items move towards the player within about 3 blocks 
+-Fixed a bug where jumping while walking into a wall makes you jump high 
+-Fixed a bug where the window name isn't correct -Fixed a bug where you could place blocks two spaces in the air
 
 Alpha 0.1-1
 -Added health
