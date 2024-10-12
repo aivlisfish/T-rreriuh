@@ -13,7 +13,10 @@ Art: All art is original Terraria artwork, we do not claim any graphics in the g
 Bugs and glitches:
 
 Alpha 0.1-1
+-Step up increasing jump height under certain circumstances 
+-Step up being triggered when falling or jumping
 -Jumping into the top right corner of a room makes you teleport right until there is air
+-Blocks can be placed 2 blocks in the air
 
 Alpha 0.1-0
 -Jumping while walking into a wall makes you jump very high
@@ -21,6 +24,7 @@ Alpha 0.1-0
 -Step up being triggered when falling into a wall
 -Teleporting up sometimes when jumping and walking in an underground room
 -Teleporting right when jumping in an underground room
+-Blocks can be placed 2 blocks in the air
 
 Versions and updates:
 
