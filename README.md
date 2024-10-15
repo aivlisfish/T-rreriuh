@@ -8,9 +8,12 @@ Physics and mechanics code: aivlisfish
 
 World generation: celerymagic_21829
 
-Art: All art is original Terraria artwork, we do not claim any graphics in the game currently as of Alpha 0.1-2
+Art: All art is original Terraria artwork, we do not claim any graphics in the game currently as of Alpha 0.1-3
 
 Bugs and glitches:
+
+Alpha 0.1-3
+-None so far although seeing how early in development this project is it likely has many
 
 Alpha 0.1-2
 -None so far although seeing how early in development this project is it likely has many
@@ -32,19 +35,23 @@ Alpha 0.1-0
 
 Versions and updates:
 
+Alpha 0.1-3
+-Optimized block updates
+-Optimized placing and breaking
+-Placing blocks updates blocks around it
+
 Alpha 0.1-2
--Added inventory
--Added inventory organization
--Added the ability to drop items
--Added stone
--Grass spreads
--Grass has more texture variants
--Grass has dynamic texturing
--Pause menu has darker background
--Items move towards the player within about 3 blocks
--Fixed a bug where jumping while walking into a wall makes you jump high
--Fixed a bug where the window name isn't correct
--Fixed a bug where you could place blocks two spaces in the air
+-Added inventory 
+-Added inventory organization 
+-Added the ability to drop items 
+-Added stone 
+-Grass spreads 
+-Grass has more texture variants 
+-Grass has dynamic texturing 
+-Pause menu has darker background 
+-Items move towards the player within about 3 blocks 
+-Fixed a bug where jumping while walking into a wall makes you jump high 
+-Fixed a bug where the window name isn't correct -Fixed a bug where you could place blocks two spaces in the air
 
 Alpha 0.1-1
 -Added health
